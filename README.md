@@ -4,6 +4,8 @@
 
 ## Full documentation
 
+[![Join the chat at https://gitter.im/openzipkin/zipkin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openzipkin/zipkin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 See [http://twitter.github.com/zipkin](http://twitter.github.com/zipkin)
 
 ## Get involved
